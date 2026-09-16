@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 2,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 3,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 4,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 5,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 6,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": true,
+    "score": 1.0,
+    "needs_verification": false
+  },
+  {
+    "id": 7,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 8,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": false,
+    "score": 0.8,
+    "needs_verification": false
+  },
+  {
+    "id": 9,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": false,
+    "score": 0.8,
+    "needs_verification": false
+  },
+  {
+    "id": 10,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 11,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.2,
+    "needs_verification": true
+  },
+  {
+    "id": 12,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 13,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 14,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 15,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 16,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 17,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 18,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.2,
+    "needs_verification": true
+  },
+  {
+    "id": 19,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 20,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 21,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 22,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 23,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": false,
+    "score": 0.8,
+    "needs_verification": false
+  },
+  {
+    "id": 24,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 25,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 26,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": false,
+    "score": 0.8,
+    "needs_verification": false
+  },
+  {
+    "id": 27,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 28,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 29,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 30,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 31,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": false,
+    "score": 0.8,
+    "needs_verification": false
+  },
+  {
+    "id": 32,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 33,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 34,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 35,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 36,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 37,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 38,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": false,
+    "score": 0.8,
+    "needs_verification": false
+  },
+  {
+    "id": 39,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 40,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 41,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 42,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 43,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 44,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 45,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 46,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 47,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 48,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 49,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 50,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 51,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.2,
+    "needs_verification": true
+  },
+  {
+    "id": 52,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 53,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 54,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 55,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 56,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 57,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 58,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 59,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 60,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 61,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 62,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 63,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 64,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 65,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 66,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 67,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 68,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 69,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 70,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 71,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 72,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 73,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": true,
+    "score": 1.0,
+    "needs_verification": false
+  },
+  {
+    "id": 74,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 75,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 76,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 77,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": false,
+    "score": 0.8,
+    "needs_verification": false
+  },
+  {
+    "id": 78,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 79,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 80,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 81,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": true,
+    "score": 1.0,
+    "needs_verification": false
+  },
+  {
+    "id": 82,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 83,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 84,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 85,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 86,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 87,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": false,
+    "score": 0.8,
+    "needs_verification": false
+  },
+  {
+    "id": 88,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.2,
+    "needs_verification": true
+  },
+  {
+    "id": 89,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 90,
+    "source_reachable": false,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0,
+    "needs_verification": true
+  },
+  {
+    "id": 91,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 92,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 93,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 94,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 95,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 96,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 97,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": true,
+    "score": 0.65,
+    "needs_verification": true
+  },
+  {
+    "id": 98,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  },
+  {
+    "id": 99,
+    "source_reachable": true,
+    "auth_evidence_supported": true,
+    "surface_evidence_supported": true,
+    "score": 1.0,
+    "needs_verification": false
+  },
+  {
+    "id": 100,
+    "source_reachable": true,
+    "auth_evidence_supported": false,
+    "surface_evidence_supported": false,
+    "score": 0.45,
+    "needs_verification": true
+  }
+]

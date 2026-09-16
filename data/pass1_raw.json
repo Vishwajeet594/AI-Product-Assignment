@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "name": "Salesforce",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.salesforce.com/docs/platform/api-rest/guide/intro-oauth-and-connected-apps.html",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 2,
+    "name": "HubSpot",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": true,
+    "mcp_status": "official",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/overview",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 3,
+    "name": "Pipedrive",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.pipedrive.com/docs/api/v1/Authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 4,
+    "name": "Attio",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.attio.com/docs/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 5,
+    "name": "Twenty",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "token"
+    ],
+    "auth_primary": "token",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.twenty.com/developers/rest-api",
+    "evidence_note": "Open-source REST API; self-host credential setup.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 6,
+    "name": "Podio",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.podio.com/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 7,
+    "name": "Zoho CRM",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://www.zoho.com/crm/developer/docs/api/v8/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 8,
+    "name": "Close",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.close.com/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 9,
+    "name": "Copper",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.copper.com/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 10,
+    "name": "DealCloud",
+    "category": "CRM and Sales",
+    "one_liner": "Customer records, pipelines, and sales workflows.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "partner review",
+    "blocker_class": "partner_review",
+    "evidence_url": "https://api.docs.dealcloud.com/",
+    "evidence_note": "Official API docs exist; access is customer/partner controlled.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 11,
+    "name": "Zendesk",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.zendesk.com/documentation/ticketing/using-the-zendesk-api/api-basics/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 12,
+    "name": "Intercom",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.intercom.com/docs/build-an-integration/learn-more/rest-apis",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 13,
+    "name": "Freshdesk",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.freshworks.com/freshdesk/api/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 14,
+    "name": "Front",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://dev.frontapp.com/docs/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 15,
+    "name": "Pylon",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "token"
+    ],
+    "auth_primary": "token",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.usepylon.com/",
+    "evidence_note": "Published API reference and token flow.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 16,
+    "name": "LiveAgent",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://dev.ladesk.com/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 17,
+    "name": "Plain",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://www.plain.com/docs/api-reference",
+    "evidence_note": "API reference documents key authentication.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 18,
+    "name": "Help Scout",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.helpscout.com/mailbox-api/overview/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 19,
+    "name": "Gorgias",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.gorgias.com/reference/introduction",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 20,
+    "name": "Gladly",
+    "category": "Support and Helpdesk",
+    "one_liner": "Customer conversations, tickets, and service operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "partner review",
+    "blocker_class": "partner_review",
+    "evidence_url": "https://developer.gladly.com/",
+    "evidence_note": "Developer program/API is customer or partner controlled.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 21,
+    "name": "Slack",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.slack.dev/authentication/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 22,
+    "name": "Twilio",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "basic"
+    ],
+    "auth_primary": "basic",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://www.twilio.com/docs/iam/api-keys",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 23,
+    "name": "Zoho Cliq",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://www.zoho.com/cliq/help/restapi/v2/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 24,
+    "name": "Lark (Larksuite)",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://open.larksuite.com/document/server-docs/authentication-management/authorization",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 25,
+    "name": "Pumble",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "unknown"
+    ],
+    "auth_primary": "unknown",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "none",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "no",
+    "blocker": "no api",
+    "blocker_class": "no_api",
+    "evidence_url": "https://pumble.com/api/",
+    "evidence_note": "Official public product page; no public developer API established in this snapshot.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 26,
+    "name": "Discord",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://discord.com/developers/docs/topics/oauth2",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 27,
+    "name": "Telegram",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://core.telegram.org/bots/api",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 28,
+    "name": "WhatsApp Business",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.facebook.com/docs/whatsapp/cloud-api/get-started",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 29,
+    "name": "Aircall",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.aircall.io/api-references/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 30,
+    "name": "Vonage",
+    "category": "Communications and Messaging",
+    "one_liner": "Messaging, voice, and communication channels.",
+    "auth_methods": [
+      "basic"
+    ],
+    "auth_primary": "basic",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.vonage.com/en/api/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 31,
+    "name": "Google Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "app review",
+    "blocker_class": "app_review",
+    "evidence_url": "https://developers.google.com/google-ads/api/docs/oauth/overview",
+    "evidence_note": "Documented API, but account/admin approval or platform review can be required.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 32,
+    "name": "Meta Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "app review",
+    "blocker_class": "app_review",
+    "evidence_url": "https://developers.facebook.com/docs/marketing-apis/",
+    "evidence_note": "Documented API, but account/admin approval or platform review can be required.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 33,
+    "name": "LinkedIn Ads",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "app review",
+    "blocker_class": "app_review",
+    "evidence_url": "https://learn.microsoft.com/linkedin/marketing/getting-started",
+    "evidence_note": "Documented API, but account/admin approval or platform review can be required.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 34,
+    "name": "GoHighLevel",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://highlevel.stoplight.io/docs/integrations/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 35,
+    "name": "Mailchimp",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://mailchimp.com/developer/marketing/docs/fundamentals/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 36,
+    "name": "Klaviyo",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.klaviyo.com/en/docs/authenticate_",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 37,
+    "name": "systeme.io",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "unknown"
+    ],
+    "auth_primary": "unknown",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "none",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "no",
+    "blocker": "no api",
+    "blocker_class": "no_api",
+    "evidence_url": "https://systeme.io/",
+    "evidence_note": "Official product source did not establish a documented public API.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 38,
+    "name": "Pinterest",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.pinterest.com/docs/getting-started/authentication/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 39,
+    "name": "Threads (Meta)",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.facebook.com/docs/threads/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 40,
+    "name": "SendGrid",
+    "category": "Marketing, Ads, Email and Social",
+    "one_liner": "Campaigns, audiences, email, ads, and social publishing.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://www.twilio.com/docs/sendgrid/api-reference/how-to-use-the-sendgrid-v3-api/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 41,
+    "name": "Shopify",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://shopify.dev/docs/apps/build/authentication-authorization",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 42,
+    "name": "WooCommerce",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "basic"
+    ],
+    "auth_primary": "basic",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://woocommerce.com/document/woocommerce-rest-api/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 43,
+    "name": "BigCommerce",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.bigcommerce.com/docs/rest-management/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 44,
+    "name": "Salesforce Commerce Cloud",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "app review",
+    "blocker_class": "app_review",
+    "evidence_url": "https://developer.salesforce.com/docs/commerce/commerce-api/guide/authorization.html",
+    "evidence_note": "Documented API, but account/admin approval or platform review can be required.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 45,
+    "name": "Magento (Adobe Commerce)",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-token/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 46,
+    "name": "Squarespace",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.squarespace.com/commerce-apis/authentication-and-permissions",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 47,
+    "name": "Ecwid",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.ecwid.com/api-reference/rest-api",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 48,
+    "name": "Gumroad",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://gumroad.com/api",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 49,
+    "name": "Amazon Selling Partner",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "app review",
+    "blocker_class": "app_review",
+    "evidence_url": "https://developer-docs.amazon.com/sp-api/docs/authorization-api",
+    "evidence_note": "Documented API, but account/admin approval or platform review can be required.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 50,
+    "name": "fanbasis",
+    "category": "Ecommerce",
+    "one_liner": "Storefront, product, order, and commerce operations.",
+    "auth_methods": [
+      "unknown"
+    ],
+    "auth_primary": "unknown",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "none",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "no",
+    "blocker": "no api",
+    "blocker_class": "no_api",
+    "evidence_url": "https://www.fanbasis.com/",
+    "evidence_note": "Official product source did not establish a documented public API.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 51,
+    "name": "DataForSEO",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "basic"
+    ],
+    "auth_primary": "basic",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.dataforseo.com/v3/appendix/authentication/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 52,
+    "name": "SE Ranking",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "basic"
+    ],
+    "auth_primary": "basic",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://seranking.com/api.html",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 53,
+    "name": "Ahrefs",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "basic"
+    ],
+    "auth_primary": "basic",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://docs.ahrefs.com/docs/api/authentication",
+    "evidence_note": "Documented API; production use typically depends on a paid account/plan.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 54,
+    "name": "MrScraper",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.mrscraper.com/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 55,
+    "name": "Apify",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.apify.com/api/v2",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 56,
+    "name": "Firecrawl",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.firecrawl.dev/api-reference/introduction",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 57,
+    "name": "Bright Data",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "basic"
+    ],
+    "auth_primary": "basic",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://docs.brightdata.com/",
+    "evidence_note": "Documented API; production use typically depends on a paid account/plan.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 58,
+    "name": "Sherlock",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "other"
+    ],
+    "auth_primary": "other",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://github.com/sherlock-project/sherlock",
+    "evidence_note": "Open-source command-line tool; local execution is the integration surface.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 59,
+    "name": "Waterfall.io",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "unknown"
+    ],
+    "auth_primary": "unknown",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "none",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "no",
+    "blocker": "partner review",
+    "blocker_class": "partner_review",
+    "evidence_url": "https://www.waterfall.io/",
+    "evidence_note": "Sales-led intelligence product; public developer path not established.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 60,
+    "name": "Clay",
+    "category": "Data, SEO and Scraping",
+    "one_liner": "Search intelligence, extraction, web data, and enrichment.",
+    "auth_methods": [
+      "unknown"
+    ],
+    "auth_primary": "unknown",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "none",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "partner review",
+    "blocker_class": "partner_review",
+    "evidence_url": "https://www.clay.com/",
+    "evidence_note": "Public product source; API access needs confirmation with Clay.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 61,
+    "name": "GitHub",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.github.com/rest",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 62,
+    "name": "Vercel",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://vercel.com/docs/rest-api",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 63,
+    "name": "Netlify",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.netlify.com/api-and-cli/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 64,
+    "name": "Cloudflare",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.cloudflare.com/api/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 65,
+    "name": "Supabase",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://supabase.com/docs/guides/api",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 66,
+    "name": "Neo4j",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://neo4j.com/docs/query-api/current/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 67,
+    "name": "Snowflake",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://docs.snowflake.com/en/developer-guide/snowflake-rest-api",
+    "evidence_note": "Documented API; production use typically depends on a paid account/plan.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 68,
+    "name": "MongoDB Atlas",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://www.mongodb.com/docs/atlas/api/",
+    "evidence_note": "Documented API; production use typically depends on a paid account/plan.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 69,
+    "name": "Datadog",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://docs.datadoghq.com/api/latest/",
+    "evidence_note": "Documented API; production use typically depends on a paid account/plan.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 70,
+    "name": "Sentry",
+    "category": "Developer, Infra and Data platforms",
+    "one_liner": "Source code, deployment, observability, and data infrastructure.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.sentry.io/api/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 71,
+    "name": "Notion",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.notion.com/docs/authorization",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 72,
+    "name": "Airtable",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://airtable.com/developers/web/api/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 73,
+    "name": "Linear",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://linear.app/developers/graphql",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 74,
+    "name": "Jira",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 75,
+    "name": "Asana",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.asana.com/docs/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 76,
+    "name": "Monday.com",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.monday.com/api-reference/docs/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 77,
+    "name": "ClickUp",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://clickup.com/api",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 78,
+    "name": "Coda",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://coda.io/developers/apis/v1",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 79,
+    "name": "Smartsheet",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.smartsheet.com/api/smartsheet/openapi/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 80,
+    "name": "Harvest",
+    "category": "Productivity and Project Management",
+    "one_liner": "Documents, work management, tasks, and collaboration.",
+    "auth_methods": [
+      "basic"
+    ],
+    "auth_primary": "basic",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://help.getharvest.com/api-v2/authentication-api/authentication/authentication/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 81,
+    "name": "Stripe",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.stripe.com/api/authentication",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 82,
+    "name": "Plaid",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://plaid.com/docs/api/",
+    "evidence_note": "Documented API; production use typically depends on a paid account/plan.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 83,
+    "name": "Binance",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developers.binance.com/docs/binance-spot-api-docs/rest-api",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 84,
+    "name": "Paygent Connect",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "unknown"
+    ],
+    "auth_primary": "unknown",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "unknown",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "partner review",
+    "blocker_class": "partner_review",
+    "evidence_url": "https://www.nmi.com/",
+    "evidence_note": "NMI/merchant relationship must be confirmed.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 85,
+    "name": "iPayX",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "unknown",
+    "blocker_class": "unknown",
+    "evidence_url": "https://ipayx.ai/docs",
+    "evidence_note": "Docs exist; validate product access and coverage during live run.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 86,
+    "name": "QuickBooks",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.intuit.com/app/developer/qbo/docs/develop/authentication-and-authorization",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 87,
+    "name": "Xero",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://developer.xero.com/documentation/guides/oauth2/overview/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 88,
+    "name": "Brex",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://developer.brex.com/openapi/",
+    "evidence_note": "Documented API; production use typically depends on a paid account/plan.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 89,
+    "name": "Ramp",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://docs.ramp.com/",
+    "evidence_note": "Documented API; production use typically depends on a paid account/plan.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 90,
+    "name": "PitchBook",
+    "category": "Finance and Fintech",
+    "one_liner": "Payments, banking, accounting, and financial data.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://pitchbook.com/data/api",
+    "evidence_note": "Data/API access is an enterprise subscription discussion.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 91,
+    "name": "NotebookLM",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "enterprise only",
+    "blocker_class": "enterprise_only",
+    "evidence_url": "https://cloud.google.com/gemini/enterprise/docs",
+    "evidence_note": "Gemini Enterprise route, not a general consumer NotebookLM API.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 92,
+    "name": "Otter AI",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "token"
+    ],
+    "auth_primary": "token",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": true,
+    "mcp_status": "official",
+    "buildable": "partial",
+    "blocker": "paid tier",
+    "blocker_class": "paid_tier",
+    "evidence_url": "https://help.otter.ai/hc/en-us",
+    "evidence_note": "MCP/API availability must be confirmed in account/product terms.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 93,
+    "name": "Fathom",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "unknown"
+    ],
+    "auth_primary": "unknown",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "none",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "no",
+    "blocker": "no api",
+    "blocker_class": "no_api",
+    "evidence_url": "https://fathom.video/",
+    "evidence_note": "No official public API established from product source.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 94,
+    "name": "Consensus",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "oauth2"
+    ],
+    "auth_primary": "oauth2",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "partner review",
+    "blocker_class": "partner_review",
+    "evidence_url": "https://consensus.app/",
+    "evidence_note": "OAuth requested/partner access requires confirmation.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 95,
+    "name": "Reducto",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.reducto.ai/",
+    "evidence_note": "Official developer documentation covers authentication and API use.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 96,
+    "name": "Devin",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "token"
+    ],
+    "auth_primary": "token",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "broad",
+    "official_mcp": true,
+    "mcp_status": "official",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://docs.devin.ai/",
+    "evidence_note": "Official docs advertise agent/MCP integration.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 97,
+    "name": "higgsfield",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "token"
+    ],
+    "auth_primary": "token",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "unstable api",
+    "blocker_class": "unstable_api",
+    "evidence_url": "https://higgsfield.ai/cli",
+    "evidence_note": "CLI path exists; API contract maturity should be checked.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 98,
+    "name": "Mermaid CLI",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "other"
+    ],
+    "auth_primary": "other",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://github.com/mermaid-js/mermaid-cli",
+    "evidence_note": "Local open-source CLI, no remote OAuth needed.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 99,
+    "name": "YouTube Transcript",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "api_key"
+    ],
+    "auth_primary": "api_key",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "yes",
+    "blocker": null,
+    "blocker_class": "none",
+    "evidence_url": "https://transcriptapi.com/",
+    "evidence_note": "Documented transcript API/key workflow.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  },
+  {
+    "id": 100,
+    "name": "Grain",
+    "category": "AI, Research and Media-native",
+    "one_liner": "AI-native research, media, transcription, and content tools.",
+    "auth_methods": [
+      "unknown"
+    ],
+    "auth_primary": "unknown",
+    "access": "self_serve_free",
+    "api_style": [
+      "rest"
+    ],
+    "api_breadth": "narrow",
+    "official_mcp": false,
+    "mcp_status": "unconfirmed",
+    "buildable": "partial",
+    "blocker": "partner review",
+    "blocker_class": "partner_review",
+    "evidence_url": "https://grain.com/",
+    "evidence_note": "Confirm availability and tenant requirements with vendor.",
+    "confidence": 0.45,
+    "pass_reached": 1
+  }
+]

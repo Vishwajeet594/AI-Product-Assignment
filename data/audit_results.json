@@ -1,0 +1,48 @@
+{
+  "baseline": {
+    "hits": 50,
+    "total": 60,
+    "pct": 83.3,
+    "by_field": {
+      "auth_primary": {
+        "hits": 13,
+        "total": 15
+      },
+      "access": {
+        "hits": 10,
+        "total": 15
+      },
+      "api_style": {
+        "hits": 13,
+        "total": 15
+      },
+      "buildable": {
+        "hits": 14,
+        "total": 15
+      }
+    }
+  },
+  "final": {
+    "hits": 56,
+    "total": 60,
+    "pct": 93.3,
+    "by_field": {
+      "auth_primary": {
+        "hits": 13,
+        "total": 15
+      },
+      "access": {
+        "hits": 14,
+        "total": 15
+      },
+      "api_style": {
+        "hits": 15,
+        "total": 15
+      },
+      "buildable": {
+        "hits": 14,
+        "total": 15
+      }
+    }
+  }
+}
