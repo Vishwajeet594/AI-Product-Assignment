@@ -23,12 +23,12 @@
     }
   },
   "final": {
-    "hits": 56,
+    "hits": 34,
     "total": 60,
-    "pct": 93.3,
+    "pct": 56.7,
     "by_field": {
       "auth_primary": {
-        "hits": 13,
+        "hits": 3,
         "total": 15
       },
       "access": {
@@ -36,7 +36,7 @@
         "total": 15
       },
       "api_style": {
-        "hits": 15,
+        "hits": 3,
         "total": 15
       },
       "buildable": {

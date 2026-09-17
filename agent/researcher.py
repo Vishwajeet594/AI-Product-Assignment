@@ -25,6 +25,7 @@ def fetch_evidence(url: str, client: httpx.Client) -> dict:
         title=re.search(r'<title[^>]*>(.*?)</title>',r.text,re.I|re.S)
         return {'requested_url':url,'resolved_url':str(r.url),'status':r.status_code,
                 'title':clean_html(title.group(1)) if title else '', 'excerpt':_excerpt(text),
+                'body_text':text[:15000],
                 'retrieved_at':datetime.now(timezone.utc).isoformat()}
     except Exception as e:
         return {'requested_url':url,'resolved_url':None,'status':0,'title':'','excerpt':'',

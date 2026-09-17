@@ -25,10 +25,10 @@
   },
   {
     "id": 4,
-    "source_reachable": false,
+    "source_reachable": true,
     "auth_evidence_supported": false,
-    "surface_evidence_supported": false,
-    "score": 0,
+    "surface_evidence_supported": true,
+    "score": 0.65,
     "needs_verification": true
   },
   {
@@ -74,9 +74,9 @@
   {
     "id": 10,
     "source_reachable": true,
-    "auth_evidence_supported": false,
+    "auth_evidence_supported": true,
     "surface_evidence_supported": true,
-    "score": 0.65,
+    "score": 1.0,
     "needs_verification": true
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": 22,
     "source_reachable": true,
-    "auth_evidence_supported": false,
+    "auth_evidence_supported": true,
     "surface_evidence_supported": true,
-    "score": 0.65,
-    "needs_verification": true
+    "score": 1.0,
+    "needs_verification": false
   },
   {
     "id": 23,
@@ -218,10 +218,10 @@
   {
     "id": 28,
     "source_reachable": true,
-    "auth_evidence_supported": false,
+    "auth_evidence_supported": true,
     "surface_evidence_supported": true,
-    "score": 0.65,
-    "needs_verification": true
+    "score": 1.0,
+    "needs_verification": false
   },
   {
     "id": 29,
@@ -274,10 +274,10 @@
   {
     "id": 35,
     "source_reachable": true,
-    "auth_evidence_supported": false,
+    "auth_evidence_supported": true,
     "surface_evidence_supported": true,
-    "score": 0.65,
-    "needs_verification": true
+    "score": 1.0,
+    "needs_verification": false
   },
   {
     "id": 36,
@@ -410,10 +410,10 @@
   {
     "id": 52,
     "source_reachable": true,
-    "auth_evidence_supported": false,
+    "auth_evidence_supported": true,
     "surface_evidence_supported": true,
-    "score": 0.65,
-    "needs_verification": true
+    "score": 1.0,
+    "needs_verification": false
   },
   {
     "id": 53,
@@ -450,9 +450,9 @@
   {
     "id": 57,
     "source_reachable": true,
-    "auth_evidence_supported": false,
+    "auth_evidence_supported": true,
     "surface_evidence_supported": true,
-    "score": 0.65,
+    "score": 1.0,
     "needs_verification": true
   },
   {
@@ -650,9 +650,9 @@
   {
     "id": 82,
     "source_reachable": true,
-    "auth_evidence_supported": false,
+    "auth_evidence_supported": true,
     "surface_evidence_supported": true,
-    "score": 0.65,
+    "score": 1.0,
     "needs_verification": true
   },
   {
@@ -770,10 +770,10 @@
   {
     "id": 97,
     "source_reachable": true,
-    "auth_evidence_supported": false,
+    "auth_evidence_supported": true,
     "surface_evidence_supported": true,
-    "score": 0.65,
-    "needs_verification": true
+    "score": 1.0,
+    "needs_verification": false
   },
   {
     "id": 98,
